@@ -2,20 +2,14 @@ import React, { useState } from 'react';
 import {
   Building2,
   Cog,
-  Cpu,
   Facebook,
   Instagram,
   Linkedin,
-  Leaf,
   MessageSquare,
-  Ruler,
   Send,
   Zap,
   Users,
-  Calendar,
-  Target,
-  Eye,
-  Award
+  Calendar
 } from 'lucide-react';
 import { images } from './data/images';
 import { workerStories } from './data/workers';
